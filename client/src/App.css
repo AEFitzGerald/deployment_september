@@ -1,0 +1,70 @@
+body {
+    background-color: #222222;
+}
+
+.navbar {
+    background-color: #ffccb3;
+}
+
+.pet-card {
+    background-color:  #515151;
+    width: 36rem;
+}
+
+/* #show-one.pet-card {
+    background-color: #515151;
+} */
+
+.label-tab {
+    width: 8rem; 
+}
+
+.input-group-text {
+    background-color: #ff9999;
+}
+
+.input-box {
+    color: #ffcbcb;
+    background-color: rgb(255, 102, 140, 0.2);
+    border: #ff956c 1px solid;
+}
+
+.add-pet-btn {
+    background-color: #ff6666;
+    margin-right: 3rem;
+    width: 8rem;
+}
+
+li.pet-details {
+    list-style-type: none;
+}
+
+#update-btn {
+    background-color:#ff9999;
+}
+
+#delete-btn {
+    background-color: #ff6666;
+    width: 34rem;
+}
+
+#like-btn {
+    background-color: #d0bff8;
+    width: 34rem;
+}
+
+.like-details {
+    color: #d0bff8;
+}
+
+.pet-details {
+    color: #ffbdbd;
+}
+
+hr.pet-divide {
+    color: #ff80ff;
+}
+
+.text-error {
+    color:#ffcc99;
+}
